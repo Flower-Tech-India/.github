@@ -1,0 +1,8 @@
+{
+  "name": "Flower Technologies Security",
+  "description": "Security scanning for secrets, malware and vulnerable dependencies.",
+  "iconName": "octicon shield-check",
+  "categories": [
+    "Security"
+  ]
+}
